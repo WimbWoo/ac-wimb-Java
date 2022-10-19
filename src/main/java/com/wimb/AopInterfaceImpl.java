@@ -12,5 +12,6 @@ public class AopInterfaceImpl implements AopInterface {
     @Override
     public void say() {
         System.out.println("hallo");
+        System.out.println("dev v1");
     }
 }
